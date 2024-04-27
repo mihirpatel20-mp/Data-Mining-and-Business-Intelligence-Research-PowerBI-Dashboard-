@@ -7,7 +7,8 @@ Welcome to the README for the Car Sales Analysis PowerBI Dashboard project. This
 2. [Files Overview](#files-overview)
 3. [Installation and Setup](#installation-and-setup)
 4. [Usage](#usage)
-5. [License](#license)
+5. [Demo](#demo)
+6. [License](#license)
 
 ## Introduction
 The Car Sales Analysis PowerBI Dashboard is designed to provide visualizations and analysis of car sales data. It utilizes PowerBI to create interactive and insightful dashboards.
@@ -33,6 +34,10 @@ To run the Car Sales Analysis PowerBI Dashboard, follow these steps:
 - Open the PowerBI dashboard file (**Car Sales Dashboard.pbix**) in the PowerBI desktop application.
 - Navigate through different visualizations and filters to explore the car sales data.
 - Refer to the presentation slides (**Car Sales Analysis (PowerBI Dashboard).pptx**) for an overview of the dashboard project and its findings.
+
+## Demo
+
+![Car Sales Analysis Demo](CarSalesAnalysisScreenRecording.gif)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

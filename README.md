@@ -37,7 +37,9 @@ To run the Car Sales Analysis PowerBI Dashboard, follow these steps:
 
 ## Demo
 
-![Car Sales Analysis Demo](CarSalesAnalysisScreenRecording.gif)
+![Car Sales Analysis Demo](CarSalesAnalysisScreenRecording.gif)  
+
+For the full demonstration, please check the [Car Sales Analysis Screen Recording.mp4](link_to_your_video) file.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
